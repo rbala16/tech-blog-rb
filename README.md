@@ -111,7 +111,7 @@ You can view screenshoots in assets folder
 You are required to submit BOTH of the following for review:
 
 * The URL of the functional, deployed application.<br>
-https://tech-blog-rb-4cc943b43fb0.herokuapp.com/
+
 
 * The URL of the GitHub repository, with a unique name and a readme describing the project.<br>
 https://github.com/rbala16/The-Tech-blog_rb
